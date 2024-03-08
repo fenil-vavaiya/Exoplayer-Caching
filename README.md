@@ -1,23 +1,21 @@
-# InstagramFeedClone
+ExoPlayer Caching for Smooth Video Playback - Instagram Reel-like Swipe Functionality
 
-Are you searchinng for : 
-"How to play videos like Instagram or TikTok or LinkedIn in Android ?"
+Introduction
+This Android project demonstrates how to implement ExoPlayer with caching functionality to achieve smooth video playback similar to Instagram Reel's vertical video swipe feature. By caching the videos locally, users can enjoy seamless playback without buffering every time they view them.
 
-Then use my code... :)
-
-This Project will provide following things : 
-
-- AutoPlay Videos
-- Plays videos inside RecyclerView cell.
-- Caching of videos(no loading of videos)
-- Uses remote video URLs (these are not local videos)
+Features
+Vertical swipe functionality for navigating through videos.
+Smooth video playback with caching to minimize buffering.
+ExoPlayer integration for efficient video rendering and playback.
+Support for various video formats and resolutions.
 
 
-See the demo here...
+Acknowledgments
+Special thanks to the creators and contributors of ExoPlayer for providing an excellent library for media playback on Android.
 
-New version (24th Dec, 2023) : 
+Contact
+For any inquiries or support regarding this project, please contact fenilvavaiya7@email.com.
 
-![instagram_feed_2](https://github.com/NehaKushwah993/InstagramVideoFeedClone/assets/19280756/abf3be81-0af1-43b4-b0f3-5c10d5e5b8de)
 
-and please let me know if you find any issue in my code...
+
 
